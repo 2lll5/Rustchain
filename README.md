@@ -10,8 +10,9 @@
 **And all hardware becomes old. It's just a matter of time.**
 
 [![CI](https://github.com/Scottcjn/Rustchain/actions/workflows/ci.yml/badge.svg)](https://github.com/Scottcjn/Rustchain/actions/workflows/ci.yml)
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/Scottcjn/Rustchain?style=flat&color=gold)](https://github.com/Scottcjn/Rustchain/stargazers)
+[![Stars](https://github.com/Scottcjn/Rustchain?style=flat&color=gold)](https://github.com/Scottcjn/Rustchain/stargazers)
 [![Nodes](https://img.shields.io/badge/Nodes-5%20Active-brightgreen)](https://Rustchain.org/explorer/)
 [![DePIN](https://img.shields.io/badge/DePIN-Vintage%20Hardware-8B4513)](https://Rustchain.org)
 [![Proof of Antiquity](https://img.shields.io/badge/Consensus-Proof%20of%20Antiquity-DAA520)](docs/WHITEPAPER.md)
